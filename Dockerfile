@@ -1,1 +1,2 @@
 FROM nginx:1.11.5
+MAINTAINER jcc34
